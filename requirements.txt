@@ -1,0 +1,2 @@
+miniconf-mqtt @ git+https://github.com/quartiq/miniconf@da803a2f599c371bb57cafab4bcc28459802abdf#subdirectory=py/miniconf-mqtt
+paho-mqtt==2.1.0
