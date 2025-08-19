@@ -18,9 +18,9 @@ examples/
 ├── demo_multiple_brokers.py   # Example: control multiple boosters connected to different brokers
 │
 Windows/                              
-├── dfu-util/                   # Dfu-util pack needed for firmware update in Widnows
+├── dfu-util/                   # Dfu-util pack needed for firmware update using Windows OS
 Linux/
-├── mosquitto/                  # files needed to setup mosquitto in linux
+├── mosquitto/                  # files needed to setup mosquitto using Linux OS
 requirements.txt            # Python dependencies
 README.md                   # This file
 main.py                     # Main file with one channel control and telemetry reading
